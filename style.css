@@ -1,0 +1,17 @@
+body (
+bakground-color:FFFFE0;/*warna kuning cerah*/
+font-family:arial,sans-serif;/jenis huruf yang bersih dan mudah dibaca  
+color:191970;warna teks utama (biru gelap)*/
+)
+.kartu profil(
+  widt:300ps;
+  margin:50pxauto; /*50px jarak atas/bawah,auto menengahkan kiri/kanan*/
+  pading:20px;
+  background color:white;
+  border-radius15px/"membuat sudut menjadi melengkung"/
+  box-shadow:0 4px 8px rgba (0,0,0,0,1),/"efek samping"/
+text-align:center;
+)
+.kartu-profile
+width:150px
+border-radius:40%;/"trik untuk membuat gambar persegi menjadi lingkaran sempurna"/
